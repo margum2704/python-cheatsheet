@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Usage: node parse.js
+sgdffa
 //
 // Script that creates index.html out of web/template.html and README.md.
 //

@@ -1,6 +1,3 @@
-#!/usr/bin/env node
-sgdffa
-//
 // Script that creates index.html out of web/template.html and README.md.
 //
 // It is written in JS because this code used to be executed on the client side.
